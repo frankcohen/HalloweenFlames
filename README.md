@@ -1,5 +1,7 @@
-# HalloweenFlames
-Fun Maker STEM project for kids and their parents
+# Halloween Flames
+I do a fun Halloween prank in front of my house. In 2023 I did a fun maker STEM project for kids and their parents.
+
+## How It Works
 
 I offer children and adults a folded-paper fortune from a bowl. They take one. The paper has no writing on it. They show it to me, and I tell them "Oh, it must be broken, shall I fix it?" When they say yes I turn and hold the paper to the bottom of a long PVC pipe. I press a button to start an animated flame that goes up and to the sky. While they look upwards I swap the paper for a real fortune paper. The fortune papers have fun sayings like "Oh no! Someone is going to
 tell you they like you!"
@@ -237,5 +239,6 @@ void Fire2012WithPalette()
 
 ## Need Help?
 
-Open an issue here, or contact me at fcohen at votsh.com.
+Open an [issue](https://github.com/frankcohen/HalloweenFlames/issues) here, or contact me at fcohen at votsh.com.
+
 Hope you enjoy a happy Halloween!
