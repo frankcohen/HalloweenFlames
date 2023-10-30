@@ -21,7 +21,7 @@ Wiring enables a button to be sensed on GPIO 12 and a string of WS2812 LEDs on G
 
 ![Board wiring 1](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093538.jpg)
 
-![Board wiring 2](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093538.jpg)
+![Board wiring 2](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093544.jpg)
 
-![Board wiring 3](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093538.jpg)
-![Board wiring 4](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093538.jpg)
+![Board wiring 3](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093549.jpg)
+![Board wiring 4](https://github.com/frankcohen/HalloweenFlames/blob/main/IMG20231030093557.jpg)
