@@ -8,6 +8,10 @@ tell you they like you!"
 
 [![Halloween Flaming Fortunes Fun](https://img.youtube.com/vi/D3yvTOuFSvA/0.jpg)](https://www.youtube.com/watch?v=D3yvTOuFSvA)
 
+## Fortunes
+
+![Fortunes on paper slips](https://github.com/frankcohen/HalloweenFlames/blob/main/Fortunes.jpg)
+
 ## Ingredients needed
 
 - 2 bowls, 1 for the blank papers, 1 for the real fortune papers
