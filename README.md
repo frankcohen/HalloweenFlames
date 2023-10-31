@@ -3,8 +3,9 @@ I do a fun Halloween prank in front of my house. In 2023 I did a fun maker STEM 
 
 ## How It Works
 
-I offer children and adults a folded-paper fortune from a bowl. They take one. The paper has no writing on it. They show it to me, and I tell them "Oh, it must be broken, shall I fix it?" When they say yes I turn and hold the paper to the bottom of a long PVC pipe. I press a button to start an animated flame that goes up and to the sky. While they look upwards I swap the paper for a real fortune paper. The fortune papers have fun sayings like "Oh no! Someone is going to
-tell you they like you!"
+I offer children and adults a folded-paper fortune from a bowl. They take one. The paper has no writing on it. They show it to me, and I tell them "Oh, it must be broken, shall I fix it?" When they say yes I turn and hold the paper to the bottom of a long PVC pipe. I press a button to start an animated flame that goes up and to the sky. While they look upwards I swap the paper for a real fortune paper. The fortune papers have fun sayings like "Oh no! Someone is going to tell you they like you!"
+
+Watch a video of the Halloween Flames:
 
 [![Halloween Flaming Fortunes Fun](https://img.youtube.com/vi/D3yvTOuFSvA/0.jpg)](https://www.youtube.com/watch?v=D3yvTOuFSvA)
 
